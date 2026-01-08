@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Hassan Akhtar
 
-<!--
-**devhassanakhtar/devhassanakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate developer who loves building things for the web and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **React projects for practice and learning**
+- 🌱 I’m currently learning **React.Js**
+- 💬 Ask me about **JavaScript, Web Development**
+- 📫 How to reach me: **hcodex5@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I enjoy solving problems and exploring new tech stacks, and I really enjoy playing games.**
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS, jQuery
+- **Tools:** GitHub, VS Code  
+
+---
+
+- **Hobbies**: anime, gym, building things
+
+⭐️ *Feel free to explore my repositories and drop a star if you like my work!*
