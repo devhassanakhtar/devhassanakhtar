@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Hassan Akhtar
 
-🚀 A passionate developer who loves building things for the web and learning new technologies.
+A passionate developer who loves building things for the web and learning new technologies.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - I’m currently working on **React projects for practice and learning**
 - I’m currently learning **React.Js**
