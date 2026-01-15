@@ -6,16 +6,16 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **React projects for practice and learning**
-- 🌱 I’m currently learning **React.Js**
-- 💬 Ask me about **JavaScript, Web Development**
-- 📫 How to reach me: **hcodex5@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy solving problems and exploring new tech stacks, and I really enjoy playing games.**
+- I’m currently working on **React projects for practice and learning**
+- I’m currently learning **React.Js**
+- Ask me about **JavaScript, Web Development**
+- How to reach me: **hcodex5@gmail.com**
+- Pronouns: **He/Him**
+- Fun fact: **I enjoy solving problems and exploring new tech stacks, and I really enjoy playing games.**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Languages:** JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS, jQuery
@@ -25,4 +25,4 @@
 
 - **Hobbies**: anime, gym, building things
 
-⭐️ *Feel free to explore my repositories and drop a star if you like my work!*
+ *Feel free to explore my repositories and drop a star if you like my work!*
