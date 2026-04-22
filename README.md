@@ -1,28 +1,76 @@
-## Hi there 👋 I'm Hassan Akhtar
+# 👋 Hi, I'm Hassan
 
-A passionate developer who loves building things for the web and learning new technologies.
-
----
-
-### About Me
-
-- I’m currently working on **React projects for practice and learning**
-- I’m currently learning **React.Js**
-- Ask me about **JavaScript, Web Development**
-- How to reach me: **hcodex5@gmail.com**
-- Pronouns: **He/Him**
-- Fun fact: **I enjoy solving problems and exploring new tech stacks, and I really enjoy playing games.**
+💼 **Certified Frontend Developer** | ⚡ Building Modern Web Experiences
 
 ---
 
-### Tech Stack
+## 👨‍💻 About Me
 
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS, jQuery
-- **Tools:** GitHub, VS Code  
+I am a **Certified Frontend Developer** with a strong passion for creating modern, responsive, and high-performance web applications.
+I love turning ideas into reality through clean code and beautiful UI.
+
+I focus on writing scalable, maintainable code and continuously improving my skills by working on real-world projects.
 
 ---
 
-- **Hobbies**: anime, gym, building things
+## 🛠️ Tech Stack
 
- *Feel free to explore my repositories and drop a star if you like my work!*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
+</p>
+
+🧩 **Other Skills:**
+
+* jQuery
+* Responsive Design
+* UI/UX Fundamentals
+
+---
+
+## 🚀 What I Do
+
+* Build responsive and modern websites
+* Create interactive UI using JavaScript
+* Develop scalable frontend apps with React & Redux
+* Design clean and user-friendly interfaces
+
+---
+
+## 🌱 Currently Improving
+
+* Advanced React Patterns
+* Performance Optimization
+* Clean Architecture in Frontend
+
+---
+
+## 🎯 Hobbies & Interests
+
+* 🎌 Watching Anime
+* 🏋️ Gym & Fitness
+* 💡 Building creative coding projects
+* 🔍 Exploring new technologies
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:hcodex5@gmail.com)
+* 💻 GitHub: https://github.com/devhassanakhtar
+
+---
+
+## ⚡ Quote
+
+> “Consistency and discipline beat talent every time.” 🚀
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
